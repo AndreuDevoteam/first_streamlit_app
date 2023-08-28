@@ -4,3 +4,5 @@ streamlit.header('Desayuno')
 streamlit.text('🥣 Leche con cereales')
 streamlit.text(' 🥑🍞Pan con sobrasada')
 streamlit.text('🥗 🐔Lechuga cual Gallina')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
